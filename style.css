@@ -102,6 +102,14 @@ p,
   bottom: 25px;
   font-size: 16px;
 }
+.b1:hover,
+.b2:hover,
+.b3:hover {
+  background-color: transparent;
+  border: #fff solid 2px;
+  color: #fff;
+  transition: all 0.2s;
+}
 .b1 {
   color: var(--Bright-orange);
 }
